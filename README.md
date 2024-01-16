@@ -1,16 +1,10 @@
 # Enigma - Created by Jason Van Humbeck
 
-Durring WW2 the germans famously used a machine: Enigma, to encript and hide their messages from their opposition.
-This was increbly successfull, and it took years and major advancements for the allies, and the turing machine to
-break the code, helping them win the war.
+During World War II, the Germans famously employed the Enigma machine to encrypt and conceal their messages from adversaries. This proved incredibly successful, requiring years and significant advancements for the Allies, along with the help of the ground-breaking Turing machine, to decipher the code.
 
-I decided to code this on Jan 11th, because I saw a video discissing the machine, and I thought it would be fun to try
-and build an early encription algorithim. While, I dont belive this code is very difficult, I think it is intresting trying
-to push the machine to its limits, as a data structure. To prove this, I concluded the project, by enrcripting shakespears, 
-Hamlet ("secretHamlet.txt").
+Inspired by a video discussing the Enigma machine, I began coding this project on January 11th. The idea of constructing an early encryption algorithm seemed intriguing. While I don't perceive the code as overly complex, the challenge lies in pushing the machine to its limits as a data structure. As a demonstration, I concluded the project by encrypting Shakespeare's "Hamlet" ("secretHamlet.txt") with the real rotor settings.
 
-Even though enigma fell in the wrong hands, it is still amazing to see the complexity of this curcit, and is truly impressive.
-Although, more impresive was Allen Turings, Turing Machine, which I will attempt to code next when I have free-time next. Although, I do encourage as a thought expirment to draw out the curcit for this machine, aswell as to try and figure out the math behind its unbreakability.
+Despite the Enigma machine falling into the wrong hands, its circuit's complexity remains astounding and truly impressive. However, even more impressive is Alan Turing's Machine, which I plan to code in my upcoming free time. As a thought experiment, I encourage exploring the circuit for this machine and delving into the mathematics behind its unbreakability.
 
-The emigma.py has capabilities if anyone decides to build a GUI ontop of it!
+For those interested, the enigma.py file has the potential for developing a GUI atop it!
 
